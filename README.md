@@ -1,16 +1,33 @@
-## Hi there 👋
+<div style="display:flex; justify-content:space-between; align-items:flex-start; width:100%;">
 
-<!--
-**BlRD-Y/BlRD-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- LEFT: GIF -->
+  <div style="flex:1;">
+    <img src="https://files.catbox.moe/y62r7l.gif"
+         style="max-width:100%; height:auto; display:block;">
+  </div>
 
-Here are some ideas to get you started:
+  <!-- RIGHT -->
+  <div style="flex:1; text-align:right; padding-left:10px;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <!-- main (github) -->
+    <a href="https://github.com/face2facewedxnce"
+       style="text-decoration:none; color:white;">
+       main
+    </a>
+
+    <!-- ký tự -->
+    <span style="margin:0 5px;">ᛝ</span>
+
+    <!-- ata -->
+    <a href="https://faggotill.atabook.org"
+       style="text-decoration:none; color:white;">
+       ata
+    </a>
+
+    <!-- stalker -->
+    <div style="margin-top:10px; color:gray; font-size:12px;">
+      stalker
+    </div>
+
+  </div>
+</div>
