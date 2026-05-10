@@ -1,4 +1,4 @@
- ᛝ 
+<p align="center"> ᛝ 
   <a href="https://faggotill.atabook.org">ata</a>
 </p>
 
