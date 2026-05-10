@@ -1,5 +1,4 @@
-<p align="center">
-  <a href="https://github.com/face2facewedxnce">main</a> ᛝ 
+ ᛝ 
   <a href="https://faggotill.atabook.org">ata</a>
 </p>
 
