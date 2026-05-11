@@ -7,6 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=BlRD-Y&label=stalker&color=grey&style=flat" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://files.catbox.moe/plunad.gif" width="350"/>
 </p>
