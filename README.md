@@ -8,5 +8,5 @@
 </p>
 
 <p align="center">
-  <img src="https://files.catbox.moe/ldotl9.webp" width="350"/>
+  <img src="https://files.catbox.moe/plunad.gif" width="350"/>
 </p>
