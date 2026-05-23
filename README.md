@@ -1,6 +1,6 @@
 <p align="left">
   <a href="https://faggotill.atabook.org">ata</a> ‎ ‎ 
-  credit img: @i/status/1901329804340912606
+  <a href="https://x.com/i/status/1901329804340912606">credit</a>
 </p>
 
 <p align="left">
